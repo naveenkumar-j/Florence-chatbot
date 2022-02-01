@@ -1,6 +1,10 @@
-#Florence chatbot Demo
+# Florence chatbot Demo
 
-[![Florence-chatbot](http://img.youtube.com/vi/YC2Q-CcnBaY/0.jpg)](https://www.youtube.com/watch?v=YC2Q-CcnBaY)
+
+
+
+https://user-images.githubusercontent.com/70682152/151995736-0b64fa09-b426-4bf2-b435-c8124d66a4fd.mp4
+
 
 
 # Florence-chatbot
@@ -12,6 +16,8 @@ Assistant and deployed on the [WordPress](https://naveenkumarj.intelaedu.com/) s
 chatbot link : [click here](https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-de&integrationID=782a2d15-591e-43bd-b7ba-8bc8910f12f6&serviceInstanceID=eac75aa1-aaed-408a-b7c3-e0f05ee6a320)
 
 WordPress link : [click here](https://naveenkumarj.intelaedu.com/)
+
+Youtube demo link : [click here](https://www.youtube.com/watch?v=YC2Q-CcnBaY)
 
 # Benefits of chatbot:
 
