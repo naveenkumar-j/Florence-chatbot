@@ -1,4 +1,4 @@
-<h1 align="center">Florence chatbot</h1>
+<h1 align="center" id="app">Florence chatbot</h1>
 
 
 ## About Florence-chatbot:
@@ -22,7 +22,7 @@ Assistant and deployed on the WordPress site.
 					</td>
           <td width="25%" align="center">
 						<span><strong>Watson Assistant</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/detain/svg-logos/blob/master/svg/ibm-watson.svg">
+						<img height="64px" width="64px" src="https://github.com/detain/svg-logos/blob/master/svg/i/ibm-watson.svg">
 					</td>
           <td width="25%" align="center">
 						<span><strong>Wordpress</strong></span><br/>
@@ -63,5 +63,5 @@ Youtube demo link : [click here](https://www.youtube.com/watch?v=YC2Q-CcnBaY)
 7. Reduce Stress for Consumers.
 
 <div align="right">
-    <b><a href="#">↥ back to top</a></b>
+    <b><a href="#app">↥ back to top</a></b>
 </div>
